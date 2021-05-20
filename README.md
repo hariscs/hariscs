@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariscs
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning CSS & JavaScript
+- 🌱 I’m currently learning JavaScript & React
 - 💞️ I’m looking to collaborate on Simple websites and landing pages
 - 📫 How to reach me: 
       email: harisshah385@gmail.com,
