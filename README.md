@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
       email: harisshah385@gmail.com,
       twitter: https://twitter.com/_haris_shah
-      website: https://hariss.netlify.app
+      website: https://harisshah.codes
 
 <!---
 hariscs/hariscs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
