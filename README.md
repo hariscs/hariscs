@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hariscs
+- 👋 Hi, I’m Haris Shah
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning JavaScript & React
 - 💞️ I’m looking to collaborate on frontend projects
