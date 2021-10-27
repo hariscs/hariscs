@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haris Shah
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me: 
       email: harisshah385@gmail.com,
