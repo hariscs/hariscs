@@ -2,7 +2,7 @@
 - 🎓 Computer Science Grad
 - 👀 I’m interested in MERN stack Development
 - 🌱 I’m currently learning Node & Express
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me: 
       email: harisshah385@gmail.com,
       twitter: https://twitter.com/_haris_shah
