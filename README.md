@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haris Shah
 - 🎓 Computer Science Grad
-- 👀 I’m interested in MERN stack Development
+- 👀 I’m interested in MERN stack & JAMstack Development
 - 🌱 I’m currently learning Node & Express
 - 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me: 
