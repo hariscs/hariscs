@@ -7,7 +7,7 @@ Associate Software Engineer
 I was curious about how video games works and that curiosity led me to Software Engineering.
 
 * 🌍  I'm based in Lahore, PK
-* 🖥️  See my portfolio at [here](http://harisshah.codes)
+* 🖥️  See my portfolio at [here](http://harisshah.tech)
 * ✉️  You can contact me at [harisshah385@gmail.com](mailto:harisshah385@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Open Source Projects
