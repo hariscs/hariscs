@@ -4,7 +4,7 @@ Hi 👋 My name is Haris
 Associate Software Engineer
 ---------------------------
 
-I was curious about how video games works and that curiosity led me to Software Engineering.
+I was curious about how video games work, and that led me to pursue Software Engineering.
 
 * 🌍  I'm based in Lahore, PK
 * 🖥️  See my portfolio at [here](http://harisshah.tech)
