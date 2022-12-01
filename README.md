@@ -1,7 +1,7 @@
 Hi 👋 My name is Haris
 ===========================
 
-Associate Software Engineer
+Software Developer
 ---------------------------
 
 I was curious about how video games work, and that led me to pursue Software Engineering.
