@@ -9,7 +9,7 @@ I was curious about how video games work, and that led me to pursue Software Eng
 * 🌍  I'm based in Lahore, PK
 * 🖥️  See my portfolio at [here](http://harisshah.tech)
 * ✉️  You can contact me at [harisshah385@gmail.com](mailto:harisshah385@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  I'm learning SQL & Go
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Love weight lifting and exploring abundant places
 
