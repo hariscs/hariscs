@@ -4,7 +4,7 @@ Hi 👋 My name is Haris
 Software Developer
 ---------------------------
 
-I was curious about how video games work, and that led me to pursue Software Engineering.
+My curiosity about how video games work led me to software engineering
 
 * 🌍  I'm based in Lahore, PK
 * 🖥️  See my portfolio at [here](http://harisshah.tech)
