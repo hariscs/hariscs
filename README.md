@@ -11,7 +11,6 @@ My curiosity about how video games work led me to software engineering
 * ✉️  You can contact me at [harisshah385@gmail.com](mailto:harisshah385@gmail.com)
 * 🧠  I'm learning SQL & Go
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Love weight lifting and exploring abundant places
 
 ### Skills
 
