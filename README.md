@@ -15,7 +15,6 @@ Today I build full-stack applications, hardware integrations, and scalable backe
 - ⚙️ Working with **MERN stack, WebHID, and device protocols**
 - 🧠 Currently studying **System Design, Distributed Systems, and Backend Architecture**
 - 🤝 Open to collaborating on **Open Source Projects**
-- 🖥️ Portfolio: **http://harisshah.dev**
 
 ---
 
